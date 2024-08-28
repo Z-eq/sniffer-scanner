@@ -85,7 +85,7 @@ def check_rootkits():
         if os.path.exists(file):
             logger.warning(f"Potential rootkit file found: {file}")
 
-# Main function to run all checks
+# Main function to run all checks.
 def run_checks():
     logger.info("Starting wiretap detection checks...")
     check_processes()
