@@ -1,0 +1,10 @@
+2024-08-28 14:08:00,016 - wiretap_detection - INFO - Starting wiretap detection checks...
+2024-08-28 14:08:08,041 - wiretap_detection - INFO - Outgoing packet: 192.168.1.213 -> 142.250.74.142
+2024-08-28 14:08:08,088 - wiretap_detection - INFO - Outgoing packet: 192.168.1.213 -> 142.250.74.142
+2024-08-28 14:08:08,759 - wiretap_detection - INFO - Outgoing packet: 192.168.1.213 -> 151.101.193.91
+2024-08-28 14:08:08,893 - wiretap_detection - INFO - Outgoing packet: 192.168.1.213 -> 142.250.74.170
+2024-08-28 14:08:08,924 - wiretap_detection - INFO - Outgoing packet: 192.168.1.213 -> 151.101.130.137
+2024-08-28 14:08:08,924 - wiretap_detection - INFO - Outgoing packet: 192.168.1.213 -> 142.250.74.138
+2024-08-28 14:08:08,924 - wiretap_detection - INFO - File: C:\Windows\System32\drivers\etc\hosts - Last modified: 1721669594.705648
+2024-08-28 14:08:08,940 - wiretap_detection - WARNING - Windows log reading not implemented.
+2024-08-28 14:08:08,940 - wiretap_detection - INFO - Wiretap detection checks completed.
