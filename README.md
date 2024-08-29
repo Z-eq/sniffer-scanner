@@ -36,7 +36,7 @@ Clone the repository:
 
 bash
 Kopiera kod
-git clone https://github.com/yourusername/wiretap-detection.git
+git clone [https://github.com/Z-eq/sniffer-scanner.git]
 Navigate to the project directory:
 
 bash
