@@ -2,7 +2,7 @@
 A very simple security tool for detecting suspicious network activity, unauthorized file changes, and potential rootkits. Monitors processes, network packets, and system logs to enhance system security.
 
 
-# Wiretap Detection System
+## Wiretap Detection System
 
 ## Overview
 
