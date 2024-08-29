@@ -34,31 +34,23 @@ pip install psutil scapy
 Setup
 Clone the repository:
 
-bash
-Kopiera kod
 git clone [https://github.com/Z-eq/sniffer-scanner.git]
 Navigate to the project directory:
 
-bash
-Kopiera kod
 cd wiretap-detection
 Create a virtual environment (optional but recommended):
 
-bash
-Kopiera kod
+# No need to use virtual envoriment but it is recomended to do so!
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 Install the required libraries:
 
-bash
-Kopiera kod
 pip install psutil scapy
 Usage
 Run the script:
 
-bash
-Kopiera kod
-python wiretap_detection.py
+
+python sniffer-scanner.py.py
 The script will continuously run and perform checks every 10 minutes. Logs will be saved to wiretap_detection.log.
 
 
