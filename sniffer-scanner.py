@@ -97,4 +97,4 @@ def run_checks():
 
 while True:
     run_checks()
-    sleep(600)  # Run checks every 10 minutes
+    sleep(1800)  # Run checks every 30 minutes
